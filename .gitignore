@@ -1,0 +1,3 @@
+*.db
+*.csv
+node_modules
